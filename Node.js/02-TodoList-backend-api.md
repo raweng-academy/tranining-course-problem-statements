@@ -18,7 +18,7 @@ Create an express api for creating a to do application. The application provides
 4. Update the status of task from pending to complete.
 5. Delete a task
 
-The end points will be tested using [Postman](https://www.postman.com/) and data should be sent back as json objects. Use appropriate HTTP Methods for implementing the api endpoints. Submit the solution as a git repository with details of endpoints added to a readme.md file. Optionally provide a link for a live demo of the application hosted on free services like [Heroku](https://www.heroku.com/).
+The end points will be tested using [Postman](https://www.postman.com/) and data should be sent back as json objects. Use appropriate HTTP Methods for implementing the api endpoints. Submit the solution as a git repository with details of endpoints added to a README.md file. Optionally provide a link for a live demo of the application hosted on free services like [Heroku](https://www.heroku.com/).
 
 **Course Name**: Node.js <br/>
 **Problem Statement**: Node.js: ToDo List Api End points
