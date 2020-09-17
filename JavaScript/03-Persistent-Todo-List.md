@@ -17,7 +17,7 @@ Create a persistent todo list using the browser storage. The application UI shou
 3. Delete complete task
 4. The application UI can optionally give the user the ability to update the task details.
 
-By default any new task will have status as incomplete. Upon completion the task should have a separate indicator for e.g strike through ( ~~submit the application code ~~). The developer can choose the design and styling of the UI. Please use custom css for styling the UI. The task list should be persistent and available even after the page is refreshed or the browser window is reopened.
+By default any new task will have status as incomplete. Upon completion the task should have a separate indicator for e.g strike through ( ~~submit the application code~~). The developer can choose the design and styling of the UI. Please use custom css for styling the UI. The task list should be persistent and available even after the page is refreshed or the browser window is reopened.
 
 Optionally provide a **README.md** file with details of the project and a live demo of the page.
 Submit your solution by clicking the [link](https://forms.gle/ua5yPhStTwqqdfEH9).
