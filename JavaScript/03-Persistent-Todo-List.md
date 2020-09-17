@@ -23,4 +23,4 @@ Optionally provide a **README.md** file with details of the project and a live d
 Submit your solution by clicking the [link](https://forms.gle/ua5yPhStTwqqdfEH9).
 
 **Course Name**: JavaScript <br/>
-**Problem Statement**: JavaScrit: Persistent ToDo List
+**Problem Statement**: JavaScript: Persistent ToDo List
