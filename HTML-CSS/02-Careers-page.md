@@ -16,7 +16,7 @@ The objective of this classwork project is to implement concepts of CSS animatio
 2. https://www.pexels.com/
 3. https://pixabay.com/
 
-For rendering the web page. While submitting the project please provide all the necessary assets as a part of the submitted repository.Optionally provide a **README.md** file with details of the project and a live demo of the page.
+For rendering the web page. While submitting the project please provide all the necessary assets as a part of the submitted repository. Optionally provide a **README.md** file with details of the project and a live demo of the page.
 Submit your solution by clicking the [link](https://forms.gle/ua5yPhStTwqqdfEH9).
 
 **Course Name**: HTML/CSS <br/>
