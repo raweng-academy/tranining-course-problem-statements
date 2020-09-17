@@ -16,7 +16,7 @@ Create a simple express server application that serves blog data. This data is s
 2. Get a specific blog with a **blogId** sent as a route parameter.
 
 Provide a git repository with all the files that will be used for setting up the express server. The README.md file should provide a list of all endpoints along with examples of usage.
-Optionally provide a link for a live demo of a server hosted on a free services link [Heroku](https://www.heroku.com/).
+Optionally provide a link for a live demo of a server hosted on a free services like[Heroku](https://www.heroku.com/).
 
 **Course Name**: Node.js <br/>
 **Problem Statement**: Node.js: Blog Backend API End points
