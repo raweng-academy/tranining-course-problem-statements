@@ -1,4 +1,3 @@
-<!-- ![Raw Engineering Logo](https://cdn.fs.teachablecdn.com/x9yTAU9KTOSTBuyNAwHh) -->
 <hr/>
 <hr/>
 <div style="width:80%; margin:auto">
@@ -9,7 +8,7 @@
 <hr/>
 <hr/>
 
-#  Problem Statements
+# Problem Statements
 
 This repository contains the list of problem statements that will be implemented as
 a part of the training program. The problem statements cover different topics
