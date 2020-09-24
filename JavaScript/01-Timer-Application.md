@@ -18,4 +18,4 @@ Optionally provide a **README.md** file with details of the project and a live d
 Submit your solution by clicking the [link](https://forms.gle/ua5yPhStTwqqdfEH9).
 
 **Course Name**: JavaScript <br/>
-**Problem Statement**: JavaScrit: Timer Application
+**Problem Statement**: JavaScript: Timer Application
