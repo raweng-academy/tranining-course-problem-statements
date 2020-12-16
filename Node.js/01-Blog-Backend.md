@@ -14,6 +14,8 @@ Create a simple express server application that serves blog data. This data is s
 
 1. Get all the blogs
 2. Get a specific blog with a **blogId** sent as a route parameter.
+3. Add New Blogs(optional)
+4. Update a blog entry based on id (optional)
 
 Provide a git repository with all the files that will be used for setting up the express server. The README.md file should provide a list of all endpoints along with examples of usage.
 Optionally provide a link for a live demo of a server hosted on a free services like [Heroku](https://www.heroku.com/).
